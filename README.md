@@ -3,7 +3,7 @@
 👀🕸🕸🕸
 🕸🕸🕸👀
 
-Here are some ideas to get you started:
+“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.” –Earl Nightingale  
 
 -  💻I’m currently working on: Kenzie Academy, Codecademy, Front-End Masters
 - 👨🏻‍💻 I’m currently learning: Functional Programming with JavaScript
