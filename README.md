@@ -1,9 +1,12 @@
 ### rianDotDev 💯
 
-👀🕸🕸🕸
-🕸🕸🕸👀
+###  🦄“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”  –Earl Nightingale  
 
-“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.” –Earl Nightingale  
+### 👀🕸🕸🕸🕸🕸🕸👀
+### 🎯[Rian.dev](http://rian.dev) My Portfolio
+
+
+
 
 -  💻I’m currently working on: Kenzie Academy, Codecademy, Front-End Masters
 - 👨🏻‍💻 I’m currently learning: Functional Programming with JavaScript
