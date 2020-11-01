@@ -9,8 +9,8 @@
 
 
 -  💻I’m currently working on: Kenzie Academy, Codecademy, Front-End Masters
-- 👨🏻‍💻 I’m currently learning: Functional Programming with JavaScript
+- 👨🏻‍💻 I’m currently learning: Functional-Light Programming with JavaScript (by Kyle Simpson)
 - 👯 I’m looking to collaborate on: Open source projects 
-- 📫 How to reach me: mail@rian.dev
+- 📫 How to reach me: <mail@rian.dev>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to live on the bleeding edge of technology.. Beta?
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.😝
