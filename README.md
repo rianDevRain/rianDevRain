@@ -10,8 +10,9 @@
 
 
 
-
--  💻I’m currently studying: Kenzie Academy, Codecademy, Front-End Masters
+-  🎓Graduated from Kenzie Academy with a [Certificate](https://drive.google.com/file/d/1Yoe4XXiBhj21X2Onmzwnk-zHOLw_K0o5/view) of Associate Front End Web Development.
+-  🥇Earned a [Certificate](https://www.coursera.org/account/accomplishments/verify/KRSHKE42YSB6) in Google Cloud Platform Fundamentals from Coursera taught by Googlers.
+-  ☁️I’m currently studying: GCP on [Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) and AWS on [Acloud.guru](https://acloud.guru/) 
 - 👨🏻‍💻 I’m currently reading: Functional-Light Programming with JavaScript (by Kyle Simpson)
 - 👯 I’m looking to collaborate on: Open source projects 
 - 📫 How to reach me: <mail@rian.dev>
